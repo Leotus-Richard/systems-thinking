@@ -1,0 +1,4 @@
+interface:
+  display_name: "Systems Thinking"
+  short_description: "Analyze assumptions and plan bounded experiments"
+  default_prompt: "Use $first-principles-analysis to examine this platform decision and recommend a defensible next step."

@@ -1,0 +1,18 @@
+{
+  "name": "systems-thinking",
+  "version": "0.1.0",
+  "description": "Analyze uncertain problems through evidence, first principles, system context, and bounded experiments.",
+  "author": {
+    "name": "LeoRichard Plugin Library"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Systems Thinking",
+    "shortDescription": "Analyze assumptions and plan bounded experiments",
+    "developerName": "LeoRichard Plugin Library",
+    "category": "Productivity"
+  },
+  "homepage": "https://github.com/Leotus-Richard/systems-thinking",
+  "repository": "https://github.com/Leotus-Richard/systems-thinking",
+  "license": "MIT"
+}
